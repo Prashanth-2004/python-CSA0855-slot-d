@@ -1,0 +1,7 @@
+b=int(input("old loaves purchased:"))
+print("regular price:",185)
+print("new loaves:",float(185*a))
+print("old loaves:",((185*b)*60)/100)
+print("total amount:",float(185*a)+((185*b)*60)/100)
+
+
